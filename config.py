@@ -1,0 +1,2 @@
+BOT_TOKEN = "8192250077:AAE8en1Xl-3dYC0SKXwMjBq4iuvV_bxS2Jw"
+TIMEZONE = "Asia/Kolkata"
